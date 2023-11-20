@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alan</h1>
 <h3 align="center">A computer science student</h3>
 <h3> About me </h3>  
-<p>I'm a high school passionate about computer science and software development. </p>
+<p>I'm a senior in high school passionate about computer science and software development. I have an interest in software engineering, data science, and cybersecurity. I am studying how to become a full-stack developer using JavaScript and Python. In this profile, you can find work I have done during CS classes, games, and other projects.</p>
 
 - 🔭 I’m currently working on [Monster Hunter](https://github.com/alanNEF/Monster-Hunter)
 
