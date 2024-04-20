@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CalculusCalc](https://github.com/alanNEF/CalculusCalc)
 
-- 🌱 I’m currently learning **JavaScript from freeCodeCamp**
+- 🌱 I’m currently learning **Web devlopment from The Odin Project**
 
 - 💬 Ask me about **Java, HTML/CSS, JavaScript**
 
