@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, HTML/CSS, JavaScript**
 
-- ⚡ Fun fact **I was born in Germany!**
+- ⚡ Fun fact **I can solve a Rubik's Cube!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
