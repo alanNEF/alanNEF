@@ -3,7 +3,7 @@
 <h3> About me </h3>  
 <p>I'm a senior in high school passionate about computer science and software development. I have an interest in software engineering, data science, and machine learning. I am studying how to become a full-stack developer using JavaScript and Python. In this profile, you can find work I have done during CS classes, games, and other projects.</p>
 
-- 🔭 I’m currently working on [FoundU]([https://github.com/alanNEF/CalculusCalc](https://github.com/danbendersky/FoundU)) and [dot](https://github.com/themehulpatwari/dot)
+- 🔭 I’m currently working on [FoundU](https://github.com/danbendersky/FoundU) and [dot](https://github.com/themehulpatwari/dot)
 
 - 🌱 I’m currently learning **Web devlopment from The Odin Project**
 
