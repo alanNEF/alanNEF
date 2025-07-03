@@ -3,7 +3,7 @@
 <h3> About me </h3>  
 <p>I'm a sophomore at UMass Amherst who is passionate about computer science and software development. I have interests in software engineering, data science, and machine learning. I'm currently a software developer for UMass BUILD. I love meeting cool people and collaborating on projects. So, feel free to reach out!</p>
 
-- 🔭 I’m currently working on [DormDuo](https://github.com/Sodiumtelluride/DormDuo)
+- 🔭 I’m currently working for [Amorcer](https://github.com/Amorcer)
 
 - 🌱 I’m currently learning **Web devlopment from The Odin Project**
 
