@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working for [Amorcer](https://github.com/Amorcer)
 
-- 🌱 I’m currently learning **Web devlopment from The Odin Project**
+- 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Java, HTML/CSS, JavaScript**
+- 💬 Ask me about **Java, HTML/CSS, JavaScript, TypeScript, Python**
 
 - ⚡ Fun fact **I can solve a Rubik's Cube!**
 
